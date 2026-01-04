@@ -1,22 +1,57 @@
-<h2>Olá! Meu Nome é Nathan Gomes</h2>
+<h1 align="center">Nathan de Alencar Gomes</h1>
 
-<a href="https://github.com/egc7/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=egc7&theme=midnight-purple" />
-</a>
-<a href="https://github.com/egc7/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=egc7&layout=donut&theme=midnight-purple&langs_count=8&card_width=320" />
-</a>
+<p align="center">
+  Competidor de Robótica • OBR • FTC • FRC (FIRST Robotics) <br>
+  Programação de Robôs • Sistemas Autônomos • Web DEV • Visão Computacional
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="EGC-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="EGC-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="EGC-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="EGC-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+---
 
-##
+### 👋 Sobre mim
 
-<div> 
-  <a href="https://instagram.com/gc.edua" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-cajueiro-1b0366337" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Sou **Nathan de Alencar Gomes**, competidor de robótica com experiência em competições educacionais e de alto nível, incluindo **OBR**, **FIRST Tech Challenge (FTC)** e **FIRST Robotics Competition (FRC)**.  
+Atuo principalmente na área de **programação**, com foco em **autonomia de robôs móveis**, **dessenvolvimento web** e **visão computacional**, geralmente no contexto de robótica competitiva e educacional.
+
+---
+
+### 🤖 Áreas de atuação
+
+- Programação de robôs para competições FIRST  
+- Visão computacional aplicada à robótica
+- Sistemas web
+- Robótica educacional e competitiva  
+
+---
+
+### 🛠️ Tecnologias e linguagens
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=egc7&theme=midnight-purple&show_icons=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egc7&layout=compact&theme=midnight-purple" />
+</p>
+
+---
+
+### 🔗 Links
+
+- 🌐 Site pessoal: **COLOCA_AQUI_TEUSITE**
+- 💼 LinkedIn: **COLOCA_AQUI_TEULINKEDIN**
+- 🐙 GitHub: https://github.com/nathangmzs
+
+---
+
+<p align="center">
+  <i>Robótica não é só hardware. Código decide campeonatos.</i>
+</p>
