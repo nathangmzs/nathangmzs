@@ -46,7 +46,7 @@ Atuo principalmente na área de **programação**, com foco em **autonomia de ro
 
 ### 🔗 Links
 
-- 🌐 Site pessoal: **COLOCA_AQUI_TEUSITE**
+- 🌐 Site pessoal: https://nathangmzs.github.io/nathan-gomes
 - 💼 LinkedIn: **COLOCA_AQUI_TEULINKEDIN**
 - 🐙 GitHub: https://github.com/nathangmzs
 
