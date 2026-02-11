@@ -53,35 +53,6 @@
 
 ---
 
-## 🚀 Projetos e Experiência
-
-### 🟣 ParaTech FTC #17800
-- Desenvolvimento de código para temporadas FIRST Tech Challenge
-- Implementação de sistemas autônomos utilizando odometria e controle avançado
-- Estruturação de arquitetura modular para robôs competitivos
-- Equipe que alcançou o mata-mata no Nacional, batendo high score duas vezes
-
-### 🔵 ParaTech FRC #9302
-- Desenvolvimento e adaptação de código para robôs com tecnologias avançadas
-- Contato com sistemas como swerve drive e integração com sensores de visão
-- Participação ativa na evolução técnica da equipe
-
-### 🟢 OBR (Olimpíada Brasileira de Robótica)
-- Participação desde 2020
-- Experiência tanto na parte prática quanto teórica
-- Desenvolvimento de robôs autônomos para desafios de resgate
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nathangmzs&theme=midnight-purple&show_icons=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathangmzs&layout=compact&theme=midnight-purple" />
-</p>
-
----
-
 <p align="center">
   <i>Código decide campeonatos. Estratégia define legados.</i>
 </p>
